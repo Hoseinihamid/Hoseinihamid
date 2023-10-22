@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hoseinihamid
 - 👀 I’m interested in Security Programs
-- 🌱 I’m currently learning about sec
+- 🌱 I’m currently learning about security
 - 💞️ I’m looking to collaborate on my worlds
 - 📫 How to reach me by mailing me or my link
 
